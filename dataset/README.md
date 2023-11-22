@@ -39,3 +39,5 @@ preprocessed_root (lrs2_preprocessed)/
 ```
 
 数据集存储尽量按照这个格式来，数据集的划分也尽量按照train.txt val.txt和test.txt文件来
+
+
